@@ -5,7 +5,7 @@
     "colab": {
       "name": "Untitled0.ipynb",
       "provenance": [],
-      "authorship_tag": "ABX9TyNYz03H3/MSqH74FobxzRmv",
+      "authorship_tag": "ABX9TyN1wbOsW6qwkKt0VRnDAgrQ",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -30,10 +30,10 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "3IxZGI4R9HqJ"
+        "id": "lpjyJxvQC0zY"
       },
       "source": [
-        ""
+        "첫 노트북 파일입니다"
       ]
     },
     {
@@ -42,8 +42,8 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "id": "JPgyNVa-3gZS",
-        "outputId": "84495c60-0956-4fc5-e718-b0b95ff8e362"
+        "id": "FiFTyp3BCnxv",
+        "outputId": "0dda57e9-9181-4327-a1da-dc1a116a6c55"
       },
       "source": [
         "a = 1\n",
